@@ -1,0 +1,30 @@
+/* header part*/
+.header {
+    background-color: rgba(255, 228, 196, 0.884);
+}
+.head{
+    display: flex;
+}
+.header-title {
+    text-align: ;
+    font-size: ;
+    color:black;
+}
+.list {
+    display: flex;
+
+    list-style: none;
+}
+.background-img {
+    height: 600px;
+    width: 100%;
+
+}
+/* middle main section part */
+.span-details-2 {
+    color:orange;
+}
+.btn-primary {
+    color: white;
+    background-color: orange;
+}
